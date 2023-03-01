@@ -1,0 +1,18 @@
+.container {
+    height: 10vh;
+    display:grid;
+    align-items: center;
+    justify-items: center;
+    margin-top: 10rem;
+  }
+button {
+    display:grid;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 5.4rem;
+    color: #2e86c1;
+}
